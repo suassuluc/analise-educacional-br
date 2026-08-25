@@ -10,3 +10,9 @@ data/processed/*
 .vscode/
 .idea/
 *.log
+
+# Relatórios de sprint (estudo local — nunca versionar)
+sprints/
+sprint*.md
+sprints/alterações necessarias.md
+.cursor/
